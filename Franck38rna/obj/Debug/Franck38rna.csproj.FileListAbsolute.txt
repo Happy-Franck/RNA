@@ -1,0 +1,11 @@
+C:\Users\Bali\Documents\Projets perso\Franck38rna\bin\Debug\Franck38rna.exe.config
+C:\Users\Bali\Documents\Projets perso\Franck38rna\bin\Debug\Franck38rna.exe
+C:\Users\Bali\Documents\Projets perso\Franck38rna\bin\Debug\Franck38rna.pdb
+C:\Users\Bali\Documents\Projets perso\Franck38rna\obj\Debug\Franck38rna.csproj.AssemblyReference.cache
+C:\Users\Bali\Documents\Projets perso\Franck38rna\obj\Debug\Franck38rna.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bali\Documents\Projets perso\Franck38rna\obj\Debug\Franck38rna.Form1.resources
+C:\Users\Bali\Documents\Projets perso\Franck38rna\obj\Debug\Franck38rna.Properties.Resources.resources
+C:\Users\Bali\Documents\Projets perso\Franck38rna\obj\Debug\Franck38rna.csproj.GenerateResource.cache
+C:\Users\Bali\Documents\Projets perso\Franck38rna\obj\Debug\Franck38rna.csproj.CoreCompileInputs.cache
+C:\Users\Bali\Documents\Projets perso\Franck38rna\obj\Debug\Franck38rna.exe
+C:\Users\Bali\Documents\Projets perso\Franck38rna\obj\Debug\Franck38rna.pdb
